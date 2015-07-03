@@ -11,4 +11,4 @@ Running the example consule agent configuration::
 
 Load the web-ui_ on http://localhost:8500/ui/
 
-.. _web-ui:: https://www.consul.io/intro/getting-started/ui.html
+.. _web-ui: https://www.consul.io/intro/getting-started/ui.html
