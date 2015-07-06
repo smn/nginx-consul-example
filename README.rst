@@ -1,9 +1,11 @@
 Nginx + Consul Example
 ======================
 
-Installation on OS X happens via Brew's Cask::
+Installation on OS X happens via Brew's Cask, install both ``consul`` and
+``consul-template``::
 
     $ brew cask install consul
+    $ brew cask install consul-template
 
 Running the example consule agent configuration::
 
